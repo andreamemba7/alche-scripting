@@ -1,0 +1,4 @@
+git add .
+read response
+git commit -m "$response"
+git push
